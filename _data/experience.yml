@@ -1,19 +1,24 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# System Administrator | Technical Support and Internal Operations Specialist
+- company: Sonalake Ltd., Poznań
+  position: System Administrator, Technical Support and Internal Operations Specialist
+  duration: Dec, 2022 &mdash; Present
+  summary: Linux and Windows server administration, planning and implementing improvements to existing infrastructure, both on-premise and cloud-based (AWS, GCP), including technical and financial analysis. Managing Proxmox and VMWare vSphere hypervisors. Managing containerization using Docker. Providing technical support for employees and external clients. Assistance in preparation for ISO 27001 certification audits.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Junior System Administrator
+- company: Vercom S.A., Poznań
+  position: Junior System Administrator
+  duration:  Jan, 2022 &mdash; Dec, 2022
+  summary: Linux server administration, managing Proxmox, VMWare vSphere, LXD, OpenVZ hypervisors. Integrating the network infrastructure of subsidiary companies into internal networks and systems. Providing technical support for employees. Cooperation with security officers to provide the highest level of security. Performing maintenance and configuration on on-premise servers.
 
+# IT Specialist
+- company: Kutno Municipal Office, Kutno
+  position: IT Specialist
+  duration:   Jun, 2021  &mdash; Sep, 2021
+  summary: Full management of internal network infrastructure of Municipal Office, using Linux and Windows servers, as well as Fortinet, Cisco, Huawei and Aruba network devices. Managing databases (MySQL, PostgreSQL, Firebird SQL). Planning and implementing improvements to the infrastructure, including technical and financial analysis. Providing technical support for employees.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Fiber Internet and IT Network Technician
+- company: Unit Link B. Czarski, Poznań
+  position: Fiber Internet and IT Network Technician
+  duration: Jul, 2020 &mdash; Dec, 2020
+  summary: Designing, planning and implementing Internet connection on clients’ properties, using FTTH technology. Diagnosis and correction of both software and hardware issues for clients through network traffic analysis, including fiber welding. 

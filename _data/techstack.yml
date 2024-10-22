@@ -1,0 +1,21 @@
+# Technological Stack
+
+# System administration and monitoring
+- project: System administration and monitoring
+  description: Ubuntu; Debian; RedHat and derivatives (CentOS, Rocky, Alma, Fedora); Proxmox VE; VMWare vSphere; LXC/LXD; OpenVZ; Docker; Kubernetes; Podman; Apache; Nginx; Apache Tomcat; Zabbix; Prometheus; Grafana; Ansible
+
+# Cloud administration and engineering
+- project: Cloud administration and engineering
+  description: Amazon Web Services (EC2, S3, ELB); AWS CLI; Google Cloud Platform (Google OAuth); OVH; Oracle Cloud Infrastructure
+
+# Server and network administration and maintenance
+- project: Server and network administration and maintenance
+  description: OpenVPN configuration and administration; Dell iDRAC; CISCO IOS; Huawei Router OS; HP Aruba; Wireshark network monitoring; basic network penetration testing
+
+# CI/CD and repository management
+- project: CI/CD and repository management
+  description: Jenkins; Github Actions; Github; Gitlab; Bitbucket; Gitea; Visual Studio Code Git Integration; Linux system Git Toolkit
+
+# Programming
+- project: Programming
+  description: Bash scripting (advanced); Python (intermediate); Rust (beginner); C++ (beginner); PHP (beginner)
